@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asgaldino
-- 👀 I’m interested in Back-End development.
-- 🌱 I’m currently learning Python, Java, Angular, JavaScript, CSS and HTML
+- 👀 I’m interested in Back-End development
+- 🌱 I’m currently learning Python, Java, Angular, Spring Boot, JavaScript, CSS, HTML and SQL
 - 📫 Talk to me by email asgaldino@outlook.com
 
 <!---
