@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asgaldino
 - 👀 I’m interested in all type software development
 - 🌱 I’m currently learning Python, Java, JavaScript, CSS, HTML, SQL, Spring Boot and Angular
-- 📫 Talk to me by email galdino.dev@outlook.com [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonsgaldino/)](https://www.linkedin.com/in/andersonsgaldino/)
+- 📫 Talk to me by email galdino.dev@outlook.com    [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonsgaldino/)](https://www.linkedin.com/in/andersonsgaldino/)
 
 <!---
 asgaldino/asgaldino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
